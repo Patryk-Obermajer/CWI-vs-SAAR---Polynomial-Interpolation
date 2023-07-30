@@ -1,7 +1,7 @@
 # CWI vs SAAR - Polynomial Interpolation
 ## Overview
 
-This repository contains Python script in Jupiter Notebook and data files used in an analysis of Catchment Wetness Index (CWI) and Standard Average Annual Rainfall (SAAR) data, based on the NERC (1975) Flood Studies Report (FSR) - Fixed percentage runoff model Figure I.6.62.
+This repository contains Python script in Jupiter Notebook and data files used in an analysis of Catchment Wetness Index (CWI) and Standard Average Annual Rainfall (SAAR) data, based on the NERC (1975) Flood Studies Report (FSR) - Plot of catchment wetness indmex, CWI, against mean annual rainfall, SAAR - Figure I.6.62.
 
 The main goal of this project was to create a model that can predict the CWI value from a given SAAR value. To achieve this, we used polynomial fitting to find best fits a given set of data points.
 
